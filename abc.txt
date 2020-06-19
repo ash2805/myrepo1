@@ -1,2 +1,4 @@
 pull command will update and merge the content
+
 fetch command will update 
+
