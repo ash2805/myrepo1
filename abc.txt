@@ -1,3 +1,1 @@
-hi
-
-
+pull command will update and merge the content
